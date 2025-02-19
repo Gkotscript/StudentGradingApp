@@ -1,0 +1,15 @@
+/Users/frameverse/RiderProjects/StudentGradingApp/bin/Debug/net8.0/StudentGradingApp
+/Users/frameverse/RiderProjects/StudentGradingApp/bin/Debug/net8.0/StudentGradingApp.deps.json
+/Users/frameverse/RiderProjects/StudentGradingApp/bin/Debug/net8.0/StudentGradingApp.runtimeconfig.json
+/Users/frameverse/RiderProjects/StudentGradingApp/bin/Debug/net8.0/StudentGradingApp.dll
+/Users/frameverse/RiderProjects/StudentGradingApp/bin/Debug/net8.0/StudentGradingApp.pdb
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/StudentGradingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/StudentGradingApp.AssemblyInfoInputs.cache
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/StudentGradingApp.AssemblyInfo.cs
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/StudentGradingApp.csproj.CoreCompileInputs.cache
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/StudentGradingApp.sourcelink.json
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/StudentGradingApp.dll
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/refint/StudentGradingApp.dll
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/StudentGradingApp.pdb
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/StudentGradingApp.genruntimeconfig.cache
+/Users/frameverse/RiderProjects/StudentGradingApp/obj/Debug/net8.0/ref/StudentGradingApp.dll
